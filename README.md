@@ -25,3 +25,8 @@ A clean and simple journaling web app that helps users reflect on their daily mo
 ## 💡 Why I Built This
 
 Mental health is important — and journaling can really help. I built this as a personal project to help people reflect on their emotions while learning front-end web development and Firebase integration. This project also strengthens my skills in UI design, API integration, and full-stack development.
+
+## Who am I?
+
+I am a highschool student within the TDSB, interested in developing my skills, as I grow through out the moments. I want to build and be able to experience the beauty of our current technology, so if there are any bugs please send me an email @ tanzeemmahib@gmail.com
+*v*
